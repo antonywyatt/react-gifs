@@ -9,3 +9,15 @@ body {
 hr{
   border-color: rgb(207, 200, 200) ;
 }
+
+input {
+  width: 100%;
+  font-size: 1.2rem;
+  outline: none;
+  border-bottom: 1px solid gray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: rgba(128, 128, 128, 0.062);
+  padding: 5px;
+}
